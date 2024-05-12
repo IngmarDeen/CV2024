@@ -54,3 +54,8 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.timeline {
+	color: grey;
+	text-decoration: underline;
+}
